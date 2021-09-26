@@ -1,0 +1,15 @@
+touch f1 f2
+
+git status
+
+git add .
+
+git status
+
+git commit -m "f1 f2"
+
+git status
+
+git log
+
+
